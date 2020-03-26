@@ -1,6 +1,6 @@
 # LOLBlocker
 LOLBlocker can block related websites and the client (Chinese servers), bringing you back to normal life.<br/><br/>
-Since the principle of this project is pretty simple, we do not explain it and do not leave a "return" option. If the user want to return, he has to try himself, and if you are interested in how to block League of Legends, you can check the original codes. <br/><br/>
+Since the principle of this project is pretty simple, neither explanation nor return option is offered. If the user want to return, he has to try himself, and if you are interested in how to block League of Legends, you can check the original codes. It is really easy! <br/><br/>
 Above all, we hope that you are not addicted to games, enjoy your real life, cherish your time and do the most important things.<br/><br/>
 
 LOLBlocker 是一个使用批处理编写的，可以屏蔽一些英雄联盟相关网站及英雄联盟客户端与服务端的通信。这个项目的目的在于帮助用户主动回归正常作息时间，享受健康生活。<br/><br/>
